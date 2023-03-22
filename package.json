@@ -1,0 +1,22 @@
+{
+  "name": "sit725-2022-t2-prac2",
+  "version": "1.0.0",
+  "description": "sit725 T2 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s222309556/sit725-2022-t2-prac2.git"
+  },
+  "author": "Achini Athukorala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s222309556/sit725-2022-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/s222309556/sit725-2022-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
